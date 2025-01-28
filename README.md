@@ -17,8 +17,7 @@ The program will be creating two classification models to fit the provided data,
 
 ## 2. **File Structure**
 
-![File Structure](<Screenshot 2025-01-12 at 12.53.24 AM.png>)
-
+![File Structure](<Screenshot 2025-01-28 at 1.11.23 AM.png>)
 
 ## 3. **How to run the notebook**
 
